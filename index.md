@@ -16,4 +16,6 @@ Below is a link to respositories, where I will be posting work that I've develop
 Additionally, over the next few weeks I'll share images, scripts, and demos of my hobby video game development.
 
 ![My Picture](/pics/Close_Up.png)
+
+[![Sorting](https://img.youtube.com/vi/ftBkf8Rfljw/0.jpg](http://www.youtube.com/watch?v=ftBkf8Rfljw)
  
