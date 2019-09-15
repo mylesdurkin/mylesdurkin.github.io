@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Myles Durkin
+description: Sample Portfolio
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
