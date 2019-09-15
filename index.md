@@ -17,5 +17,5 @@ Additionally, over the next few weeks I'll share images, scripts, and demos of m
 
 ![My Picture](/pics/Close_Up.png)
 
-[![Sorting](https://img.youtube.com/vi/ftBkf8Rfljw/0.jpg](http://www.youtube.com/watch?v=ftBkf8Rfljw)
+[![Sample Animation](https://img.youtube.com/vi/ftBkf8Rfljw/0.jpg)](http://www.youtube.com/watch?v=ftBkf8Rfljw)
  
